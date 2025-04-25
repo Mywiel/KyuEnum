@@ -1,5 +1,3 @@
-# KyuEnum
-Learning Java here and trying some of the assignments
 import java.util.Scanner;
 
 public class Aufgabe2Kyu {
